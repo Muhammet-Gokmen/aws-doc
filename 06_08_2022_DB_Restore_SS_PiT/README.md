@@ -18,21 +18,21 @@ At the end of the this hands-on training, students will be able to;
 
 ## Outline
 
-- Part 1 - Installing MariaDB Client on Ubuntu Instance and Setting up Database on RDS Instance Remotely
+- Part 1 - Installing MariaDB Client on Ubuntu Instance and Setting up Database on RDS Instance Remotely.
 
-- Part 2 - Taking a Snapshot from RDS DB Instance
+- Part 2 - Taking a Snapshot from RDS DB Instance.
 
-- Part 3 - Recovering RDS DB Instance from Manual snapshot
+- Part 3 - Recovering RDS DB Instance from Manual snapshot.
 
-- Part 4 - Restoring RDS DB Instance from a Point in Time
+- Part 4 - Restoring RDS DB Instance from a Point in Time.
 
-- Part 5 - Dumping and Migrating Database
+- Part 5 - Dumping and Migrating Database.
 
-## Part 1 - Installing MariaDB Client on Ubuntu Instance and Setting up Database on RDS Instance Remotely
+## Part 1 - Installing MariaDB Client on Ubuntu Instance and Setting up Database on RDS Instance Remotely.
 
 ### STEP 0 - Creating a RDS Instance if you have deleted in the former session.
 
-- First, lets create Security Group
+- First, lets create Security Group.
 
 ```text
 Name: DatabaseSecGrb
